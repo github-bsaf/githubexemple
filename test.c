@@ -3,7 +3,7 @@
 
 int main(void)
 {
-printf("compile");
+printf("compilez");
 return 0;
 	}
 
