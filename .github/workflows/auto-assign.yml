@@ -10,5 +10,4 @@ jobs:
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # using the `org/team_slug` or `/team_slug` syntax to add git team as reviewers
-          reviewers: |
-            reviewer1
+          reviewers: yosraammar
